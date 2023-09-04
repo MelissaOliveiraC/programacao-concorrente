@@ -2,7 +2,7 @@
 Trabalho de Linguagens de Programação 
 
 
-## Autores
+### Trabalho feito por
 
 - [@MelissaOliveira](https://github.com/MelissaOliveiraC)
 - [@BarbaraMoroni](https://github.com/BaarbaraMoroni)
